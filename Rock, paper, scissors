@@ -1,8 +1,13 @@
 
+<!DOCTYPE html>
 
+<header>
 <h1> Rock-Paper-Scissors Game</h1>
-<button onclick="game()">Start Game</button>
+</header>
 
+<body>
+<button onclick="game()">Start Game</button>
+</body>
 
 <script>
 // Global variables
